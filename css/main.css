@@ -1,0 +1,322 @@
+
+.first {
+	background-color: #a3cfd8;
+	margin: 0;
+	height: 300px;
+}
+.headline {
+	color: #444444;
+	display: inline;
+	position: relative;
+	top: -20px;
+	left: 30px;
+}
+.logo {
+	display: inline;
+	position: relative;
+	top: 25px;
+	left: 5px
+}
+.navigation a {
+	color: #444444;
+	display: inline-block;
+	float: right;
+	position: relative;
+	top: -60px;
+	text-decoration: none;
+}
+li {
+	margin: 0 20px;
+	display: inline;
+}
+.highlight {
+	background-color: #444444;
+	color: #a3cfd8;
+	padding:5px;
+}
+.apple {
+	position: relative;
+	left: 60%;
+}
+h1 {
+	color: #fbfcfe;
+	font-size: 25px;
+	text-align: center;
+	position: relative;
+	top: 60px;
+	left: 30px;
+}
+.second {
+	margin: 20px;
+	height: 300px;
+}
+.second a{
+	text-decoration: none;
+	color: #444444;
+	display: inline-block;
+	position: relative;
+	top: 20px;
+	left:35px;
+}
+.second .flat {
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	position: relative;
+	left: 3%;
+}
+.second .idea {
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	position: relative;
+	left: 3%;
+}
+.second .browser {
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	position: relative;
+	left: 3%;
+}
+.third {
+	background-color: #97d0a3;
+	height: 300px;
+}
+.third h2, .third p {
+	color: #fbfcfe;
+	text-align: center;
+	position: relative;
+}
+.third a{
+	text-decoration: none;
+	
+}
+.third li {
+	color: #fbfcfe;
+	text-align:center;
+	position: relative;
+	left: 20%;
+	padding: 2px;
+}
+.drawing a {
+	margin: 30px;
+	position: relative;
+	left: 25%;
+}
+.third .all {
+	background-color: #fbfcfe;
+	color: #444444;
+	padding: 2px;
+}
+.third .web {
+	border: 1px solid #fbfcfe;
+	padding: 2px;
+}	
+.button h5{
+	background-color: #fbfcfe;
+	display: inline;
+	color: #444444;
+	padding: 5px;
+	position: relative;
+	left: 47%;
+	top: 10px;
+}
+.fourth {
+	background-color: #f1f1f1;
+	text-align: center;
+	height: 300px;
+}
+hr {
+	width: 80%;
+}
+.fourth .psd-one img{
+	background-color: #f1f1f1;
+	display: inline;
+	position: relative;
+	top: 20px;
+	right: 20%;
+	margin: 5px;
+
+}
+.fourth .psd-one h4{
+	display: inline;
+	position: relative;
+	top: -70px;
+	right: 20%;
+}
+.fourth .psd-one p {
+	display: inline;
+	position: relative;
+	top: -65px;
+	left: 6%;
+}
+.fourth .button-two h5{
+	display: inline;
+	position: relative;
+	top: -40px;
+	right: 20%;
+	background-color: #99d2a5;
+	color: #fcfbfb;
+	padding: 4px;	
+}
+.fourth a {
+	text-decoration: none;
+}
+.fourth .psd-two img {
+	background-color: #f1f1f1;
+	display: inline;
+	position: relative;
+	top: -20px;
+	left: 35%;
+	margin: 5px;
+}
+.fourth .psd-two h4{
+	display: inline;
+	position: relative;
+	top: 30px;
+	right: 25%;
+}
+.fourth .psd-two p {
+	display: inline;
+	position: relative;
+	top: 35px;
+	right: 4.5%;
+}
+.fourth .button-three h5{
+	display: inline;
+	position: relative;
+	top: 45px;
+	right: 31%;
+	background-color: #a3d2dc;
+	color: #fcfbfb;
+	padding: 4px;	
+}
+.fifth {
+	background-color: #e0b7c7;
+	height: 300px;
+}
+.fifth h2 {
+	text-align: center;
+	margin: 0px;
+	padding: 5px;
+	color: #fbfcfe;
+}
+.fifth h6 {
+	text-align: center;
+	color: #fbfcfe;
+	margin: 0;
+}
+.fifth a{
+	display: inline-block;
+	text-align: center;
+	margin: 20px;
+	text-decoration: none;
+	background-color: white;
+	padding: 1px;
+	position: relative;
+	left: 20%;
+	color: #444444;
+}
+.sixth {
+	background-color: #b5d5e0;
+	margin: 0px;
+	padding: 2px;
+}
+.sixth h2{
+	text-align: center;
+	color: #fbfcfe;
+}
+.sixth h6{
+	text-align: center;
+	color: #fbfcfe;
+}
+.sixth .post a {
+	display: inline-block;
+	text-align: center;
+	margin: 30px;
+	background-color: white;
+	padding: 2px;
+	position: relative;
+	left: 15%;
+	text-decoration: none;
+}
+.button-four a {
+	text-align: center;
+	text-decoration: none;
+	
+
+}
+.button-four h5{
+	background-color: #fbfcfe;
+	display: inline-block;
+	color: #b5d5e0;
+	position: relative;
+	left: 45%;
+	padding: 5px;
+}
+footer {
+	background-color: #3c3c3c;
+	height: 300px;
+}
+footer h2{
+	text-align: center;
+	color: #f1f1f1;
+	padding: 2px;
+	margin:0px;
+}
+footer h6{
+	text-align: center;
+	color: #f1f1f1;
+}
+input{
+	position: relative;
+	left: 40%;
+	margin: 2px;
+}
+.message {
+	height: 30px;
+}
+.button-five h5{
+	display: inline-block;
+	text-align: center;
+	color: #3c3c3c;
+	background-color: #f1f1f1; 
+	position: relative;
+	left: 45%;
+	padding: 5px;
+}
+footer h4{
+	float: right;
+	position: relative;
+	right: 5%;
+	top: 10px;
+}
+
+.social i{
+	display: inline-block;
+	margin: 4px;
+	border-radius: 8px;
+	background-color:white;
+	position: relative;
+	float: left;
+	top: 25px;
+}
+span{
+	color: #988d6f;
+}
+@media (max-width: 960px) {
+	.third, .fourth, .fifth, .sixth{
+		display: none;
+	}
+}
+@media (max-width: 800px){
+	.apple, .none, .second p {
+		display: none;
+	}
+}
+@media (max-width: 400px) {
+	.highlight {
+		display: none;
+	}
+}
